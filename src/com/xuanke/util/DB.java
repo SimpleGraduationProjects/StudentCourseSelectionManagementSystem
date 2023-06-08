@@ -16,7 +16,7 @@ public class DB {
 	private String user = "root";
 	private String password = "123456";
 	private String className = "com.mysql.jdbc.Driver";
-	private String url = "jdbc:mysql://127.0.0.1:3306/graduation_xuanke?useUnicode=true&characterEncoding=utf8";
+	private String url = "jdbc:mysql://127.0.0.1:3306/graduation_59_xuanke?useUnicode=true&characterEncoding=utf8";
 
 	public DB() {
 		try {
